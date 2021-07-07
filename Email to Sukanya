@@ -1,0 +1,17 @@
+Hi Sukanya,
+
+Please find the attachment of the deliverables 
+
+Click Streams
+Issues faced manually 
+Loadrunner script
+Results for 10 Iterations.
+As the complete application transactions are truly based on the Client side transactions (No Server based Transactions).
+ Hence scripted with True client in loadrunner .
+
+There will not be any kind of dynamic values  hence no correlation .
+
+Let me know if you have any queries , feel free to get back to me .
+
+Regards,
+ Arif
